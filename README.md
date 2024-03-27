@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Speranto
+- 👋 Hi, I’m Romina
 - 👀 I’m interested in physics and Coding.
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on Front-End Development Projects
